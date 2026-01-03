@@ -37,7 +37,6 @@ body {
   font-style: italic;
   color: rgb(175, 135, 86);
   transition: all 0.3s;
-  text-decoration: none;
 }
 .menu_bar_h1 span {
   color: rgb(22, 17, 10);
